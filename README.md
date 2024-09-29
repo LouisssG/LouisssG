@@ -6,8 +6,8 @@ My objective is to deepen my understanding of cybersecurity through hands-on hom
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> Put Project Here</b>
-  - [Replace with actual Project](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> Active Directory Homelab Setup</b>
+  - [Active Directory User Management with PowerShell](https://github.com/LouisssG/ActiveDirectoryLab/tree/main)
 
 <h2>📜 Certifications</h2>
 
